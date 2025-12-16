@@ -27,10 +27,7 @@ grov is committed to creating **intelligent systems that do more than just talk*
 
 ## Contact / Links
 
-- Website / Docs (GitHub Pages): https://grov.github.io/aspen-docs  
-- Organization GitHub: https://github.com/grov  
+- Website / Docs (GitHub Pages): https://grov-systems.github.io/aspen/docs
+- Organization GitHub: https://github.com/grov-systems  
 - Maintainer: [Lyman Cameron](https://github.com/lymancameron)  
 
----
-
-**License:** MIT License (or GPL v3, consistent with ASPEN)
