@@ -6,11 +6,8 @@
 
 ## Projects
 
-- **ASPEN** — AI Voice Assistant: https://github.com/grov/aspen-assistant  
-- **ASPEN Docs** — Documentation and tutorials: https://github.com/grov/aspen-docs  
-- **ASPEN Examples** — Sample configs and scripts: https://github.com/grov/aspen-examples  
-- **ASPEN Source** — Modular libraries and tools: https://github.com/grov/aspen-source  
-- **ASPEN Releases** — Prebuilt binaries and releases: https://github.com/grov/aspen-releases  
+- **ASPEN** — AI Voice Assistant: https://github.com/grov/aspen-assistant
+- **BOLT** - An AI powered word filter, fully configurable and (mostly) non-bypassable
 
 ---
 
